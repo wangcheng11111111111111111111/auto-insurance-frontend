@@ -1,0 +1,22 @@
+{
+  "name": "车险出单智能体",
+  "short_name": "车险智能体",
+  "description": "车险报价、核保与业务员协作智能体",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#174EA6",
+  "icons": [
+    {
+      "src": "/favicon-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/brand-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
